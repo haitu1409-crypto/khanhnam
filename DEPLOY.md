@@ -12,7 +12,7 @@
    - Click "Import"
 
 3. **Cấu hình Project:**
-   - **Project Name**: Đặt tên là `188lux-nhatchimai`
+   - **Project Name**: Đặt tên là `1daily188lux`
    - Framework Preset: Chọn "Other" hoặc "Static Site"
    - Root Directory: `./`
    - Build Command: (Để trống vì là static HTML)
@@ -20,7 +20,7 @@
 
 4. **Deploy:**
    - Click "Deploy"
-   - Vercel sẽ tự động deploy và tạo URL: `https://188lux-nhatchimai.vercel.app`
+   - Vercel sẽ tự động deploy và tạo URL: `https://1daily188lux.vercel.app`
 
 5. **Auto Deploy:**
    - Mỗi lần push code lên GitHub, Vercel sẽ tự động deploy lại
@@ -41,7 +41,7 @@
    ```bash
    vercel
    ```
-   - Khi được hỏi project name, nhập: `188lux-nhatchimai`
+   - Khi được hỏi project name, nhập: `1daily188lux`
    - Chọn options theo hướng dẫn
 
 4. **Production Deploy:**
@@ -51,7 +51,7 @@
 
 ## Lưu ý
 
-- Tên miền sẽ là: `https://188lux-nhatchimai.vercel.app`
+- Tên miền sẽ là: `https://1daily188lux.vercel.app`
 - Nếu muốn tên khác, đổi tên project trong Vercel Dashboard
 - File `vercel.json` đã được tạo để cấu hình routing
 

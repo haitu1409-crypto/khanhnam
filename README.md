@@ -21,6 +21,8 @@ quangcao/
 │   ├── item1.jpg
 │   ├── item2.jpg
 │   ├── item3.jpg
+│   ├── photo_2025-11-27_18-23-02.jpg
+│   ├── photo_2025-11-27_18-23-20.jpg
 │   └── unnamed.png
 └── README.md
 ```
